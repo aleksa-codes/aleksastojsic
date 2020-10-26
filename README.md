@@ -57,22 +57,4 @@ Passionate, energetic, and self-motivated developer eager to turn ideas into app
 
 <br/>  
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<div width="100%">
-  
-  - 🌱 I’m currently improving in JavaScript and CSS
-  - ⚡ My next goals are: React, Express & GraphQL
-  - 😅 I'm looking for a full-stack Mentor, help.
-  
-</div>
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksa-stojsic&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>   
-
-<div><a href="https://www.buymeacoffee.com/aleksa" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" align="left"/></a></div>
+<div><a href="https://www.buymeacoffee.com/aleksa" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" align="right"/></a></div>
