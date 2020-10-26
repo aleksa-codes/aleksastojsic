@@ -57,4 +57,4 @@ Passionate, energetic, and self-motivated developer eager to turn ideas into app
 
 <br/>  
 
-<div><a href="https://www.buymeacoffee.com/aleksa" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" align="center"/></a></div>
+<div><a href="https://www.buymeacoffee.com/aleksa" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" align="centre"/></a></div>
