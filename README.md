@@ -54,4 +54,4 @@ Passionate, energetic, and self-motivated developer eager to turn ideas into app
 
 <br/>  
 
-<div align="center"><a href="https://aleksa-stojsic.github.io/" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Aleksa%20Stojsic-Portfolio-9cf?style=flat-square&logo=gatsby"/></a>   <a href="https://www.buymeacoffee.com/aleksa" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange?style=flat-square&logo=coffeescript"/></a></div>
+<div align="center"><a href="https://aleksa-stojsic.github.io/" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Aleksa%20Stojsic-Portfolio-9cf?style=flat-square&logo=gatsby"/></a>   <a href="https://www.buymeacoffee.com/aleksa" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Boy-Me%20A%20Coffee-orange?style=flat-square&logo=coffeescript"/></a></div>
