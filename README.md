@@ -24,9 +24,7 @@ Passionate, energetic, and self-motivated developer eager to turn ideas into app
 
 - 😅 I'm looking for a full-stack Mentor, help.  
 
-
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
