@@ -20,12 +20,7 @@
 ###    
 I am a Computer Science student, learning to become a full-stack developer.
 
-Passionate, energetic, and self-motivated developer eager to turn ideas into applications. My ambitions are to stay on the leading edge of the web development industry and find new learning opportunities or projects to rapidly keep improving as a developer.  
-  
-
-<br/>  
-
-<table><tr><td valign="top" width="50%">
+Passionate, energetic, and self-motivated developer eager to turn ideas into applications. My ambitions are to stay on the leading edge of the web development industry and find new learning opportunities or projects to rapidly keep improving as a developer.
 
 - 🌱 I’m currently improving in JavaScript and CSS  
   
@@ -35,12 +30,6 @@ Passionate, energetic, and self-motivated developer eager to turn ideas into app
 
 - 😅 I am Looking for a full-stack Mentor.  
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -92,7 +81,3 @@ Passionate, energetic, and self-motivated developer eager to turn ideas into app
                     align="left"
                 />
             </a>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
