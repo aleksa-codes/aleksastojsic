@@ -22,7 +22,7 @@ Passionate, energetic, and self-motivated developer eager to turn ideas into app
 - ⚡ My next goals are: React, Express & GraphQL  
   
 
-- 😅 I'm looking for a full-stack Mentor, help.  
+- 😅 I'm looking for a full stack Mentor, help..
 
 ## Languages and Tools  
 
