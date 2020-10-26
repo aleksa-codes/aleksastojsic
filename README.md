@@ -10,8 +10,6 @@
 <a href="https://instagram.com/aleksa.stojsic" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<div align="right"><a href="https://www.buymeacoffee.com/aleksa" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"/></a></div>  
-
 
 
 ###    
@@ -57,4 +55,4 @@ Passionate, energetic, and self-motivated developer eager to turn ideas into app
 
 <br/>  
 
-<div align="center"><a href="https://www.buymeacoffee.com/aleksa" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"/></a></div>
+<div align="left"><a href="https://www.buymeacoffee.com/aleksa" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"/></a></div>
