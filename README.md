@@ -12,7 +12,7 @@
 </a>
 
 ###    
-I am a Computer Science student, learning to become a full-stack developer.
+I am a Computer Science student, learning to become a full stack web developer.
 
 Passionate, energetic, and self-motivated developer eager to turn ideas into applications. My ambitions are to stay on the leading edge of the web development industry and find new learning opportunities or projects to rapidly keep improving as a developer.
 
