@@ -24,8 +24,6 @@ Passionate, energetic, and self-motivated developer eager to turn ideas into app
 
 - 😅 I'm looking for a full-stack Mentor, help.  
 
-<br/>  
-
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
