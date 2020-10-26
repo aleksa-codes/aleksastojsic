@@ -1,5 +1,5 @@
-## Aleksa Stojšić  
-  
+## Aleksa Stojšić
+
 
 <a href="https://github.com/aleksa-stojsic" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -12,7 +12,7 @@
 </a>
 <a href="https://instagram.com/aleksa.stojsic" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>
   
 
 
@@ -70,9 +70,7 @@ Passionate, energetic, and self-motivated developer eager to turn ideas into app
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksa-stojsic&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
-
-<br/>  
+</td></tr></table>   
 
 <div>
             <a href="https://www.buymeacoffee.com/aleksa" target="_blank" style="display: inline-block;">
@@ -81,3 +79,4 @@ Passionate, energetic, and self-motivated developer eager to turn ideas into app
                     align="left"
                 />
             </a>
+  </div>
