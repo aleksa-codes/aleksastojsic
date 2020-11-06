@@ -23,7 +23,7 @@ Passionate, energetic, and self-motivated developer eager to turn ideas into app
 - ⚡ My next goals are: React, Express & GraphQL  
   
 
-- 😅 Looking for help.. feel free to contact me
+- 😅 Looking for help.. feel free to contact me.
 
 ## Languages and Tools  
 
