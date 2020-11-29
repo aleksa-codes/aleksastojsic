@@ -10,9 +10,9 @@
 </a>
 
 ###    
-I am a Computer Science student, learning to become a full stack web developer.
+I am a Computer Science student, learning to become a full-stack web developer.
 
-Passionate, energetic, and self-motivated developer eager to turn ideas into applications. Ambitious to stay on the leading edge of the web development industry and find new learning opportunities or projects to rapidly keep improving as a developer.
+Passionate, energetic, and self-motivated developer eager to turn ideas into applications. Ambitious to stay on the leading edge of the web development industry and find new learning opportunities or projects to keep improving rapidly as a developer.
 
 - 🌱 I’m currently improving in JavaScript and CSS  
   
