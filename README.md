@@ -1,11 +1,11 @@
 ## [Aleksa](https://aleksa-stojsic.github.io)
-<a href="https://github.com/aleksa-stojsic">
+<a href="https://github.com/aleksa-stojsic" style="display: inline-block;">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
 </a>
-<a href="https://linkedin.com/in/aleksa-stojsic">
+<a href="https://linkedin.com/in/aleksa-stojsic" style="display: inline-block;">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
 </a>
-<a href="https://instagram.com/aleksa.stojsic">
+<a href="https://instagram.com/aleksa.stojsic" style="display: inline-block;">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram />
 </a>
 
