@@ -1,4 +1,4 @@
-## [Aleksa](https://aleksa-stojsic.github.io)
+## 👋 I am [Aleksa](https://aleksa-stojsic.github.io) Stojsic
 <a href="https://github.com/aleksa-stojsic" style="display: inline-block;">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
 </a>
