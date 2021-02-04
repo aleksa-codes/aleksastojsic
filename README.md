@@ -48,4 +48,7 @@ Passionate, energetic, and self-motivated developer eager to turn ideas into app
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="32" />  
 </div>
 <br/>
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aleksa-stojsic&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>
 <div align="center"><a href="https://aleksa-stojsic.github.io/" style="display: inline-block;"><img src="https://img.shields.io/badge/Aleksa%20Stojsic-Portfolio-9cf?style=flat-square&logo=gatsby"/></a>   <a href="https://www.buymeacoffee.com/aleksa" style="display: inline-block;"><img src="https://img.shields.io/badge/Buy-Me%20A%20Coffee-orange?style=flat-square&logo=coffeescript"/></a></div>
