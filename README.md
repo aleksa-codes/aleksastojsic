@@ -20,7 +20,7 @@ Passionate, energetic, and self-motivated developer eager to turn ideas into app
 - ⚡ My next goals are: React, Next.js & TypeScript  
   
 
-- 😅 Looking for help from a JavaScript/React Sensei.. feel free to contact me.
+- 😅 Looking for help from a JavaScript/React mentor, e-mail me.
 
 ## Languages and Tools  
 
