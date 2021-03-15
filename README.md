@@ -5,6 +5,9 @@
 <a href="https://linkedin.com/in/aleksa-stojsic" style="display: inline-block;">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
 </a>
+<a href="https://dev.to/aleksa_stojsic" style="display: inline-block;">
+<img src=https://img.shields.io/badge/dev.to-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=dev-to />
+</a>
 <a href="https://instagram.com/aleksa.stojsic" style="display: inline-block;">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram />
 </a>
