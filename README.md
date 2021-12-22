@@ -8,9 +8,7 @@
 <a href="https://dev.to/aleksa_stojsic" style="display: inline-block;">
 <img src=https://img.shields.io/badge/dev.to-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=dev-to />
 </a>
-<a href="https://instagram.com/aleksa.stojsic" style="display: inline-block;">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram />
-</a>
+
 
 ###    
 I am a Computer Science student, learning to become a full-stack web developer.
