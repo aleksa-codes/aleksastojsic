@@ -13,15 +13,13 @@
 ###    
 I am a Computer Science student, learning to become a full-stack web developer.
 
-Passionate, energetic, and self-motivated developer eager to turn ideas into applications and learn more every day. Ambitious to stay on the leading edge of the web development industry and find new learning opportunities or projects to keep improving rapidly as a developer.
+Passionate and self-motivated developer, eager to turn ideas into applications and learn more every day. Ambitious to stay on the leading edge of the web development industry and find new learning opportunities or projects to keep improving rapidly as a developer.
 
 - 🌱 I’m currently improving in JavaScript and CSS  
   
 
 - ⚡ My next goals are: React, Next.js & TypeScript  
-  
 
-- 😅 Looking for help from a JavaScript/React mentor, e-mail me.
 
 ## Languages and Tools  
 
