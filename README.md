@@ -10,9 +10,7 @@
 </a>
 
 
-###    
-I am a Computer Science student, learning to become a full-stack web developer.
-
+###
 Passionate and self-motivated full-stack software engineer, eager to turn ideas into applications. Ambitious to stay on the leading edge of the web development industry and find new learning opportunities or projects to keep improving. I work to create modern, responsive websites that suit the wants and needs of my clients and I am eager to solve problems through innovative solutions and collaboration.
 
 My personal site is available [here](https://aleksa-stojsic.github.io/). 
