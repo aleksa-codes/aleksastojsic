@@ -20,7 +20,6 @@ You can reach me @ **stojsic.aleksa@gmail.com**
 </div>
 
 ## Languages and Tools  
-
 <p align="center" style="margin-bottom: -20px;">
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,typescript,next,linux,git,vscode,nodejs,mongo&theme=light" />
