@@ -1,11 +1,11 @@
 # 👋 Hello, World! I'm [Aleksa Stojsic](https://aleksa-stojsic.github.io)
-<a href="https://github.com/aleksa-stojsic" style="display: inline-block;">
+<a href="https://github.com/aleksa-stojsic" style="display: inline-block;" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
 </a>
 <a href="https://linkedin.com/in/aleksa-stojsic" style="display: inline-block;">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
 </a>
-<a href="https://dev.to/aleksa_stojsic" style="display: inline-block;">
+<a href="https://dev.to/aleksa_stojsic" style="display: inline-block;" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=dev-to />
 </a>
 
@@ -23,16 +23,16 @@ You can reach me @ **stojsic.aleksa@gmail.com**
 ## Languages and Tools  
 
 <p align="center" style="margin-bottom: -20px;">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,typescript,next,linux,git,vscode,nodejs,mongo&theme=light" />
   </a>
 </p>
 
 
 <p align="center">
-  <a href="https://aleksa-stojsic.github.io/" style="display: inline-block;">
+  <a href="https://aleksa-stojsic.github.io/" style="display: inline-block;" target="_blank">
   <img src="https://img.shields.io/badge/Aleksa%20Stojsic-Portfolio-9cf?style=flat-square&logo=firefoxbrowser"/>
   </a>
-  <a href="https://www.buymeacoffee.com/aleksa" style="display: inline-block;"><img src="https://img.shields.io/badge/Coffee-Time-9cf?style=flat-square&logo=coffeescript"/>
+  <a href="https://www.buymeacoffee.com/aleksa" style="display: inline-block;" target="_blank"><img src="https://img.shields.io/badge/Coffee-Time-9cf?style=flat-square&logo=coffeescript"/>
   </a>
 </p>
