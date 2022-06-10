@@ -6,7 +6,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
 </a>
 <a href="https://dev.to/aleksa_stojsic" style="display: inline-block;" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=dev-to />
+<img src=https://img.shields.io/badge/dev.to-%2324292e.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=dev-to />
 </a>
 
 
