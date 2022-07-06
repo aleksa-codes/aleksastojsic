@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm [Aleksa](https://aleksa-stojsic.github.io)
+# 👋 Hello, World! I'm [Aleksa](https://aleksa.vercel.app)
 <a href="https://discord.com/users/220611119297986561" style="display: inline-block;" target="_blank">
   <img src=https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white alt=github />
 </a>
@@ -12,7 +12,7 @@
 ###
 Passionate and self-motivated full-stack software engineer, eager to turn ideas into applications. Ambitious to stay on the leading edge of the web development industry and find new learning opportunities or projects to keep improving. I work to create modern, responsive websites that suit the wants and needs of my clients and I am eager to solve problems through innovative solutions and collaboration.
 
-My personal site is available [here](https://aleksa-stojsic.github.io/). 
+My personal site is available [here](https://aleksa.vercel.app). 
 
 You can reach me @ **stojsic.aleksa@gmail.com**
 <div align="right">
