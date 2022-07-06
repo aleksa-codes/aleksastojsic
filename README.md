@@ -26,7 +26,7 @@ You can reach me @ **stojsic.aleksa@gmail.com**
   </a>
 </p>
 <p align="center">
-  <a href="https://aleksa-stojsic.github.io/" style="display: inline-block;" target="_blank">
+  <a href="https://aleksa.vercel.app" style="display: inline-block;" target="_blank">
     <img src="https://img.shields.io/badge/My-Portfolio-9cf?style=flat-square&logo=firefoxbrowser"/>
   </a>
   <a href="https://www.buymeacoffee.com/aleksa" style="display: inline-block;" target="_blank">
