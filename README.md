@@ -1,4 +1,4 @@
-# 👋 Hello world, I'm [Aleksa](https://aleksa.vercel.app)!
+# 👋 Hello World, I'm [Aleksa](https://aleksa.vercel.app)!
 <a href="https://discord.com/users/220611119297986561" style="display: inline-block;" target="_blank">
   <img src=https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white alt=github />
 </a>
