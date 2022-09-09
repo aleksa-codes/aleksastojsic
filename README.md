@@ -10,7 +10,8 @@
 </a>
 
 ###
-Passionate and self-motivated full-stack web developer, eager to turn ideas into applications. My ambitious are to stay on the leading edge of the web development world and find new learning opportunities or projects to keep improving. I work to create modern, responsive websites and applications that suit the wants and needs of my clients while solving problems through innovative solutions and collaboration.
+Passionate and self-motivated full-stack web developer, eager to turn ideas into applications. My ambitious are to stay on the leading edge of the web development world and find new learning opportunities or projects to keep improving.
+I work to create modern, responsive websites and applications that suit the wants and needs of my clients while solving problems through innovative solutions and collaboration.
 
 My personal site is available [here](https://aleksa.vercel.app). 
 
