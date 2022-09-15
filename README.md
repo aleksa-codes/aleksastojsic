@@ -14,7 +14,7 @@ Passionate and self-motivated full-stack web developer, eager to turn ideas into
 
 I work to create modern, responsive websites and applications that suit the wants and needs of my clients while solving problems through innovative solutions and collaboration.
 
-My personal site is available [here](https://aleksa.vercel.app). 
+My personal site is available [here](https://aleksa.codes). 
 
 You can reach me @ **stojsic.aleksa@gmail.com**
 <div align="right">
