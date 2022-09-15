@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Aleksa](https://aleksa.vercel.app)!
+# 👋 Hey, I'm [Aleksa](https://aleksa.codes)!
 <a href="https://discord.com/users/220611119297986561" style="display: inline-block;" target="_blank">
   <img src=https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white alt=github />
 </a>
@@ -29,7 +29,7 @@ You can reach me @ **stojsic.aleksa@gmail.com**
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=aleksastojsic&style=flat-square&color=blue" />
-  <a href="https://aleksa.vercel.app" style="display: inline-block;" target="_blank">
+  <a href="https://aleksa.codes" style="display: inline-block;" target="_blank">
     <img src="https://img.shields.io/badge/My-Portfolio-9cf?style=flat-square&logo=firefoxbrowser&color=blue"/>
   </a>
   <a href="https://www.buymeacoffee.com/aleksa" style="display: inline-block;" target="_blank">
