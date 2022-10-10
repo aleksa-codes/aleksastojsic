@@ -2,10 +2,10 @@
 <a href="https://discord.com/users/220611119297986561" style="display: inline-block;" target="_blank">
   <img src=https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white alt=github />
 </a>
-<a href="https://linkedin.com/in/aleksa-stojsic" style="display: inline-block;">
+<a href="https://linkedin.com/" style="display: inline-block;">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
 </a>
-<a href="https://dev.to/aleksa_stojsic" style="display: inline-block;" target="_blank">
+<a href=[https://dev.to/aleksa_stojsic" style="display: inline-block;" target="_blank">
   <img src=https://img.shields.io/badge/dev.to-%2324292e.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=dev-to />
 </a>
 
@@ -28,8 +28,7 @@ You can reach me @ **stojsic.aleksa@gmail.com**
   </a>
 </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=
-&style=flat-square&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=aleksa-codes&style=flat-square&color=blue" />
   <a href="https://aleksa.codes" style="display: inline-block;" target="_blank">
     <img src="https://img.shields.io/badge/My-Portfolio-9cf?style=flat-square&logo=firefoxbrowser&color=blue"/>
   </a>
