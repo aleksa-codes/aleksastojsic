@@ -28,7 +28,8 @@ You can reach me @ **stojsic.aleksa@gmail.com**
   </a>
 </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=aleksastojsic&style=flat-square&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=
+&style=flat-square&color=blue" />
   <a href="https://aleksa.codes" style="display: inline-block;" target="_blank">
     <img src="https://img.shields.io/badge/My-Portfolio-9cf?style=flat-square&logo=firefoxbrowser&color=blue"/>
   </a>
