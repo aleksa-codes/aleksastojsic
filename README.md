@@ -16,7 +16,7 @@ I work to create modern, responsive websites and applications that suit the want
 
 My personal site is available [here](https://aleksa.codes). 
 
-You can reach me @ **stojsic.aleksa@gmail.com**
+You can reach me @ **aleksacodes@outlook.com**
 <div align="right">
   <img src="https://vignette.wikia.nocookie.net/world-fighters/images/4/46/Bmo-0.png" width="128" height="128" />
 </div>
