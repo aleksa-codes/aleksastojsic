@@ -17,11 +17,6 @@ I work to create modern, responsive websites and applications that suit the want
 My personal site is available [here](https://aleksa.codes). 
 
 You can reach me @ **aleksacodes@outlook.com**
-<div align="left">
-<a href="https://astro.badg.es/v1/contributor/aleksa-codes/">
-  <img src="https://astro.badg.es/v1/contributor/aleksa-codes.svg" alt="@aleksa-codes Astro contributions" width="300" height="200">
-</a>
-</div>
 <div align="right">
   <img src="https://vignette.wikia.nocookie.net/world-fighters/images/4/46/Bmo-0.png" width="128" height="128" />
 </div>
