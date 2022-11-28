@@ -1,13 +1,4 @@
 # Hi there 👋 I'm [Aleksa](https://aleksa.codes)
-<a href="" style="display: inline-block;" target="_blank">
-  <img src=https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white alt=github />
-</a>
-<a href="https://linkedin.com/404" style="display: inline-block;">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
-</a>
-<a href="https://dev.to/aleksacodes" style="display: inline-block;" target="_blank">
-  <img src=https://img.shields.io/badge/dev.to-%2324292e.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=dev-to />
-</a>
 
 ###
 Passionate and self-motivated full-stack web developer, eager to turn ideas into applications. My ambitious are to stay on the leading edge of the web development world and find new learning opportunities or projects to keep improving.
