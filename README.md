@@ -1,9 +1,9 @@
 # Hi there 👋 I'm [Aleksa](https://aleksa.codes)
 
 ###
-Passionate and self-motivated full-stack web developer, eager to turn ideas into applications. My ambitious are to stay on the leading edge of the web development world and find new learning opportunities or projects to keep improving.
+Welcome to my GitHub profile! As a full-stack web developer, I am committed to creating modern and responsive websites and applications that meet the unique needs and goals of my clients. My specialties include finding innovative solutions and collaborating with others to solve problems and bring ideas to life.
 
-I work to create modern, responsive websites and applications that suit the wants and needs of my clients while solving problems through innovative solutions and collaboration.
+With a dedication to staying up-to-date in the field of web development through continuous learning and improvement, I am always seeking out new learning opportunities and projects to further improve my skills. I am excited to work with you and help bring your ideas to fruition.
 
 My personal site is available [here](https://aleksa.codes). 
 
