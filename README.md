@@ -15,7 +15,7 @@ You can reach me @ **aleksacodes@outlook.com**
 ## Languages and Tools  
 <p align="center" style="margin-bottom: -20px;">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,typescript,next,astro,linux,git,vscode,nodejs,mongo&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,typescript,next,astro,linux,git,vscode,nodejs,mongo" />
   </a>
 </p>
 <p align="center">
