@@ -11,7 +11,7 @@ Passionate and self-motivated full-stack web developer, eager to turn ideas into
 ## Languages and Tools
 <p align="center">
     <a href="https://skillicons.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,vite,next,astro,nodejs,express,supabase,vscode,yarn,git" />
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,vite,astro,next,nodejs,express,supabase,vscode,yarn,git" />
     </a>
 </p>
 
